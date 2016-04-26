@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 25 22:15:58 2016
-
 @author: danielmorgan
+
+Twitter StreamListener for search terms 'an hotel' and 'an hospital'
+Outputs results to a text file
 """
 
 import tweepy
